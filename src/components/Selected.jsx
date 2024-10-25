@@ -12,7 +12,7 @@ const Selected = ({selectPlayer, removePlayer, isActive, handelSelect}) => {
                 selectPlayer.map(player => <SelectPlayer removePlayer={removePlayer} selectPlayer={player}></SelectPlayer>)
             }
 
-            <button onClick={()=> handelSelect("Available")} className="p-3 bg-green-300 rounded-xl mt-5 font-semibold">Available</button>
+            <button onClick={()=> handelSelect("Available")} className="p-3 bg-green-300 rounded-xl mt-5 font-semibold">Add More Players</button>
         
             {isActive.stile ? <Available isActive={isActive}></Available> : ""}
         

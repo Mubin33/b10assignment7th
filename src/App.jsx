@@ -37,7 +37,7 @@ function App() {
 
   const tkAdd=()=>{
     toast.success('You get 10k coin for buy player...!', {
-        position: "top-right",
+        position: "bottom-center",
         autoClose: 5000,
         hideProgressBar: false,
         closeOnClick: true,
@@ -51,7 +51,9 @@ function App() {
   return (
     <>
     <div className='container mx-auto'>
-      <Header amount={amount}></Header>
+      <div className='sticky top-0  bg-white z-10'>
+        <Header amount={amount}></Header>
+      </div>
       <Hero freeAmount={freeAmount}></Hero>
       <SelectBar amount={amount} setAmount={setAmount} isActive={isActive} handelSelect={handelSelect}></SelectBar>
     </div>

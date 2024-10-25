@@ -23,7 +23,7 @@ const Player = ({player, perPlayer}) => {
             </div>
             <div className="mt-2 flex justify-between">
                 <p className="text-sm mt-2 font-semibold text-gray-700">Price: $ {price}k </p>
-                <button onClick={()=> perPlayer(player)} className="text-sm p-2 bg-green-400 rounded-lg  font-semibold">Choose Player</button>
+                <button onClick={()=> perPlayer(player)} className="text-sm p-2 bg-green-300 rounded-lg  font-semibold">Choose Player</button>
             </div>
         </div>
     );
@@ -31,22 +31,3 @@ const Player = ({player, perPlayer}) => {
 
 export default Player;
 
-
-// country
-// : 
-// "Australia"
-// player_img
-// : 
-// "https://randomuser.me/api/portraits/men/1.jpg"
-// player_name
-// : 
-// "John Smith"
-// playing_img
-// : 
-// "https://assets.nst.com.my/images/articles/Jamie_Smith180924_1726621286.jpg"
-// playing_position
-// : 
-// "Batsman"
-// price
-// : 
-// 1500000
