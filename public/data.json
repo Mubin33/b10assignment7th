@@ -1,0 +1,112 @@
+[
+    {
+      "id":1,
+     "ball":"---",
+     "bat":"Left-Hand-Bat", 
+     "player_name": "John Smith",
+      "player_img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "price": 15,
+      "country": "Australia",
+      "playing_position": "Batsman",
+      "playing_img": "https://assets.nst.com.my/images/articles/Jamie_Smith180924_1726621286.jpg"
+    },
+    {
+      "id":2,
+     "ball":"---",
+     "bat":"Left-Hand-Bat", 
+     "player_name": "Rahul Sharma",
+      "player_img": "https://randomuser.me/api/portraits/men/2.jpg",
+      "price": 2,
+      "country": "India",
+      "playing_position": "Batsman",
+      "playing_img": "https://media.crictracker.com/media/attachments/2019/09/Rahul-Sharma.jpg"
+    },
+    {
+      "id":3,
+     "ball":"Left-Hand-Bowler",
+     "bat":"Right-Hand-Bat", 
+     "player_name": "David Johnson",
+      "player_img": "https://randomuser.me/api/portraits/men/3.jpg",
+      "price": 12,
+      "country": "England",
+      "playing_position": "All-Rounder",
+      "playing_img": "https://www.sportsadda.com/static-assets/waf-images/b8/81/0b/16-9/w8YM4K9WGY.jpg?v=1.6&w=420%20420w"
+    },
+    {
+      "id":4,
+     "ball":"Left-Hand-Bowler",
+     "bat":"Left-Hand-Bat", 
+     "player_name": "Mohammad Khan",
+      "player_img": "https://randomuser.me/api/portraits/men/4.jpg",
+      "price": 18,
+      "country": "Pakistan",
+      "playing_position": "Bowler",
+      "playing_img": "https://p.imgci.com/db/PICTURES/CMS/305300/305331.jpg"
+    },
+    {
+      "id":5,
+     "ball":"Left-Hand-Bowler",
+     "bat":"Left-Hand-Bat", 
+     "player_name": "Carlos Fernandez",
+      "player_img": "https://randomuser.me/api/portraits/men/5.jpg",
+      "price": 14,
+      "country": "West Indies",
+      "playing_position": "All-Rounder",
+      "playing_img": "https://www.reuters.com/resizer/v2/WA25FZB5NRIDTKKKYZAFW2GHUU.jpg?auth=645d90930350a81ebb410912a36a3c7ee4f05750d3a38ef8bec17f9abbfed678&width=1080&height=565&smart=true"
+    },
+    {
+      "id":6,
+     "ball":"Left-Hand-Bowler",
+     "bat":"Left-Hand-Bat", 
+     "player_name": "Ben Turner",
+      "player_img": "https://randomuser.me/api/portraits/men/6.jpg",
+      "price": 16,
+      "country": "New Zealand",
+      "playing_position": "Batsman",
+      "playing_img": "https://media.crictracker.com/media/attachments/1705411793465_Ben-Duckett.jpeg"
+    },
+    {
+      "id":7,
+     "ball":"Left-Hand-Bowler",
+     "bat":"Right-Hand-Bat", 
+     "player_name": "Liam O'Reilly",
+      "player_img": "https://randomuser.me/api/portraits/men/7.jpg",
+      "price": 17,
+      "country": "South Africa",
+      "playing_position": "All-Rounder",
+      "playing_img": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/1C37/production/_107232270_obrien_getty2.jpg"
+    },
+    {
+      "id":8,
+     "ball":"Left-Hand-Bowler",
+     "bat":"Left-Hand-Bat", 
+     "player_name": "Hasan Ali",
+      "player_img": "https://randomuser.me/api/portraits/men/8.jpg",
+      "price": 19,
+      "country": "Bangladesh",
+      "playing_position": "Bowler",
+      "playing_img": "https://static.cricketaddictor.com/wp-content/uploads/2021/03/Hasan-Ali.jpg?q=80"
+    },
+    {
+      "id":9,
+     "ball":"---",
+     "bat":"Left-Hand-Bat", 
+     "player_name": "Angelo Mathews",
+      "player_img": "https://randomuser.me/api/portraits/men/9.jpg",
+      "price": 13,
+      "country": "Sri Lanka",
+      "playing_position": "Batsman",
+      "playing_img": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/11/06/3820852-77649968-2560-1440.jpg"
+    },
+    {
+      "id":10,
+     "ball":"Left-Hand-Bowler",
+     "bat":"Right-Hand-Bat", 
+     "player_name": "Tom Parker",
+      "player_img": "https://randomuser.me/api/portraits/men/10.jpg",
+      "price": 15,
+      "country": "England",
+      "playing_position": "Bowler",
+      "playing_img": "https://content.api.news/v3/images/bin/241e4cb5a9e612e7dab9a9e60eef382a"
+    }
+  ]
