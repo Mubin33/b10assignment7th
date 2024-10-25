@@ -8,6 +8,8 @@ import SelectBar from './components/SelectBar'
 
 import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
+import MiniFooter from './components/MiniFooter'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -53,6 +55,8 @@ function App() {
       <Hero freeAmount={freeAmount}></Hero>
       <SelectBar amount={amount} setAmount={setAmount} isActive={isActive} handelSelect={handelSelect}></SelectBar>
     </div>
+    <MiniFooter></MiniFooter>
+    <Footer></Footer>
     </>
   )
 }
